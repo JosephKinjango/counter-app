@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+
+This Project Uses react framework interactive UI. 
+I does basic add remove from cart tast as well check out 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
